@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28744" started-at="2020-01-05T23:38:45 IST" finished-at="2020-01-05T23:39:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28744" started-at="2020-01-05T23:38:45 IST" finished-at="2020-01-05T23:39:14 IST">
+      <class name="com.zest.qa.testcases.ComparePrice">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.zest.qa.testcases.ComparePrice@887af79]" name="setUp" is-config="true" duration-ms="8076" started-at="2020-01-05T23:38:45 IST" finished-at="2020-01-05T23:38:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="comparePrice()[pri:0, instance:com.zest.qa.testcases.ComparePrice@887af79]" name="comparePrice" duration-ms="19196" started-at="2020-01-05T23:38:53 IST" finished-at="2020-01-05T23:39:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.zest.qa.testcases.ComparePrice@887af79]" name="tearDown" is-config="true" duration-ms="1380" started-at="2020-01-05T23:39:13 IST" finished-at="2020-01-05T23:39:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.zest.qa.testcases.ComparePrice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
